@@ -21,3 +21,4 @@ Commands
 -	start up a worker
 
 		`celery worker --app=src -l info`
+
